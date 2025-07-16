@@ -1,0 +1,6 @@
+{
+  "homepage":"https://potatobread01.github.io/portfolio/",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
