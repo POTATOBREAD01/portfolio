@@ -27,7 +27,7 @@ header, section, footer, #main { width: 100%;}
 #main {
     position: relative;
     height: 590px;
-    background-image: url('/image/main_back.jpg');
+    background-image: url('../image/main_back.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
