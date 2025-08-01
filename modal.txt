@@ -31,3 +31,6 @@
                 <div class="codeBox">
                     <pre class="codePre"><code class="modalCode">test<br>test<br>test<br>test</code></pre>
                 </div>
+
+                <!-- Image -->
+                <img src="image/project1/img2.png" alt="Er" class="marginTop">

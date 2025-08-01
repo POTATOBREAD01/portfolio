@@ -519,3 +519,14 @@ footer {
   color: inherit;
   font-family: Consolas, 'Courier New', monospace;
 }
+
+.marginTop{
+    margin-top: 2rem;
+}
+.marginBottom{
+    margin-bottom: 2rem;
+}
+.fullImg{
+    width: 100%;
+    height: auto;
+}
