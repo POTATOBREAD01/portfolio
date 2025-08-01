@@ -34,3 +34,11 @@
 
                 <!-- Image -->
                 <img src="image/project1/img2.png" alt="Er" class="marginTop">
+
+                <!-- video -->
+                 <video width="100%" height="auto" controls>
+                    <source src="video/project1.mp4" type="video/mp4">
+                 </video>
+
+	     <!-- 진한 글씨 -->
+	     <h2 class="comment modalUrlHeader">Deployment URL</h2>
