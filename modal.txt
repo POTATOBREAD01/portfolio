@@ -29,7 +29,9 @@
 
                 <!-- Code -->
                 <div class="codeBox">
-                    <pre class="codePre"><code class="modalCode">test<br>test<br>test<br>test</code></pre>
+                    <pre class="codePre"><code class="modalCode">
+test<br>test<br>test<br>test
+                    </code></pre>
                 </div>
 
                 <!-- Image -->
